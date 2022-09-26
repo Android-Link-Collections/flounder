@@ -29,7 +29,9 @@ Lineage OS 15.1
 
 XenonHD
 -----
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Flounder/XenonHD/XenonHD-211031-Unofficial-flounder.zip/download)built by me
+* [XDA](https://forum.xda-developers.com/t/rom-7-1-2-xenonhd-for-flounder-unofficial-30thsep.4494589/)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Flounder/XenonHD)
+* built by me
 
 /e/OS 0.10 EOL
 -----
